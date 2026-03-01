@@ -1,0 +1,6 @@
+x=int(input("enter your age-"))
+print ("My age is",x)
+y=input("enter your name-")
+print ("my name is",y)
+z=float(input("enter your weight-"))
+print ("my weight is",z)
